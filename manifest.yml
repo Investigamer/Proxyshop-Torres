@@ -1,0 +1,59 @@
+###
+# * Plugin Details
+###
+
+PLUGIN:
+  name: 'Torres'
+  author: 'Torres'
+  desc: "A plugin for Torres's awesome templates."
+  license: 'MPL-2.0'
+  requires: '^1.13.0'
+  version: '1.1.0'
+
+###
+# * Normal Templates
+###
+
+TorresBorderlessIkoria.psd:
+  id: '10YHZO4JWzIvNWx08Ys_aw1ntINLlS8pZ'
+  desc: "A Torres rendition of the Borderless box-topper frame from Ikoria."
+  templates: { Torres Borderless Ikoria: TorresBorderlessIkoriaTemplate }
+
+TorresCrystall.psd:
+  id: '1YyaUcEFh8u9Xk8AKO1BbIXn1VjKXLupR'
+  desc: "A super dope crystal themed Borderless frame."
+  templates: { Torres Crystal: TorresCrystalTemplate }
+
+TorresDragon.psd:
+  id: '1x60ZKwa9-Cle6rorGEGSKyyYzEFgyxFG'
+  desc: "Based on the Tarkir Dragon Scale frame introduced in Multiverse Legends."
+  templates: { Torres Dragon: TorresDragonTemplate }
+
+TorresNeon.psd:
+  id: '1tucsbiFHj8mXZceHmQtiDfHykskn4hvR'
+  desc: "A Torres rendition of the Neon frame treatment introduced in Kamigawa Neon Dynasty."
+  templates: { Torres Neon: TorresNeonTemplate }
+
+TorresNinjaFullart.psd:
+  id: '1tqClodlsuvoqDSsl3EEqoMgXDvayykZC'
+  desc: "A Torres rendition of the Ninja frame treatment introduced in Kamigawa Neon Dynasty."
+  templates: { Torres Ninja Fullart: TorresNinjaFullartTemplate }
+
+TorresStainedGlass.psd:
+  id: '1gNrbsoUtPXydwlAznS0iTScJ-FzXwQrq'
+  desc: "A Torres rendition of the Stained Glass frame treatment introduced in Dominaria United."
+  templates: { Torres Stained Glass: TorresStainedGlassTemplate }
+
+###
+# * Basic Land Templates
+###
+
+TorresJapaneseBasic.psd:
+  id: '1I284sjo1DWPBVGRlH6Z5qRhy26EnNfM9'
+  desc: "A Torres rendition of the Japanese woodblock basics introduced in Kamigawa Neon Dynasty."
+  templates: { Torres Japanese Basic: TorresJapaneseBasicLandTemplate }
+
+TorresSignatureBasic.psd:
+  id: '1ysugvR5cJ79ZOTrHRgfkgf498E1ZBy41'
+  desc: "A Torres rendition of the basic land signature spellbook showcase treatment."
+  templates: { Torres Signature Basic: TorresSignatureBasicLandTemplate }
