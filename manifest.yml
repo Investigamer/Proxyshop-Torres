@@ -19,7 +19,7 @@ TorresBorderlessIkoria.psd:
   desc: "A Torres rendition of the Borderless box-topper frame from Ikoria."
   templates: { Torres Borderless Ikoria: TorresBorderlessIkoriaTemplate }
 
-TorresCrystall.psd:
+TorresCrystal.psd:
   id: '1cSHa8eh4l21EfdFpeC3s-daP_MH_4yXp'
   desc: "A super dope crystal themed Borderless frame."
   templates: { Torres Crystal: TorresCrystalTemplate }
